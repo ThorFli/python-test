@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import this
 
-this
-
 city = 'Hamburg'
 url = f'https://sonnenaufgang.online/sun/{city}'
 #url = f'https://zwiftpower.com/profile.php?z=4516687'
