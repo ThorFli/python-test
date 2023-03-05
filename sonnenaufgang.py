@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import this
 
 city = 'Hamburg'
 url = f'https://sonnenaufgang.online/sun/{city}'
